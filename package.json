@@ -1,0 +1,23 @@
+{
+  "name": "bitcoin-node",
+  "version": "1.0.0",
+  "description": "\"A way to display bitcoin data\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"node test.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agee6/bitcoin-node.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "chartjs"
+  ],
+  "author": "goldsten silver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agee6/bitcoin-node/issues"
+  },
+  "homepage": "https://github.com/agee6/bitcoin-node#readme"
+}
